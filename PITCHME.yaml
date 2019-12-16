@@ -1,6 +1,1 @@
 theme-override: PITCHME.css
-
-background-image: url("bg_testt.png");
-background-repeat: no-repeat;
-background-position: right top;
-margin-right: 200px;
