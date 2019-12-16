@@ -2,7 +2,9 @@
 .reveal h2,
 .reveal h2 strong {
   color: chocolate;
+  text-transform: uppercase;
 }
-.reveal section img {
-  background-color: rgba(206, 20, 223, 0.2);
+.reveal section img,
+element.style {
+  background-color: rgba(40, 20, 223, 0.2);
 }
