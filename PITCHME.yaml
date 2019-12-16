@@ -1,6 +1,7 @@
 theme-override: PITCHME.css
 
-  background-repeat: no-repeat;
-  background-position: left top;
-  margin-right: 200px;
-  background-attachment: fixed;
+background-image: url("bg_test.jpg"");
+background-repeat: no-repeat;
+background-position: left top;
+margin-right: 200px;
+background-attachment: fixed;
