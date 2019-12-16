@@ -1,5 +1,5 @@
-.reveal h1 strong {
+.h1 {
     color: chocolate;
-
+    border:2px solid rgb(44, 42, 42);
 }
 
