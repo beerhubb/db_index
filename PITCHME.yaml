@@ -1,1 +1,6 @@
 theme-override: PITCHME.css
+
+background-image: url("https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/79288042_447926215899910_2409826903344021504_n.png?_nc_cat=108&_nc_oc=AQmJNZj5wKYoQdM2b57UrPseBCYqyKCoS6ansk52qpvdWJa5NKw9QhFlLwqttbl3p4M&_nc_ht=scontent.fkkc2-1.fna&oh=d25a43e1d9e299641558cf77f34a16aa&oe=5EB19782");
+background-repeat: no-repeat;
+background-position: right top;
+margin-right: 200px;

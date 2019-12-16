@@ -4,5 +4,8 @@
   color: chocolate;
 }
 .reveal section img {
-    background-color:rgba(255, 99, 71, 0.2);
+  background-color: rgba(255, 99, 71, 0.2);
+}
+.reveal .slide-background {
+    
 }
