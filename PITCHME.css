@@ -3,7 +3,3 @@
 .reveal h2 strong {
   color: chocolate;
 }
-.reveal section img,
-element.style {
-  background-color: rgba(40, 20, 223, 0.2);
-}
