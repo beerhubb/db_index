@@ -32,4 +32,4 @@
 
 ---
 
-![สรุป](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/79330959_448932729341632_8872701335959502848_n.png?_nc_cat=110&_nc_oc=AQmR2IfKxMfXHVcFqLt3sMf_0iXIRoQReDe5UFxu--tG4RpyVpF8iTq1oe9bsBUu5QU&_nc_ht=scontent.fkkc2-1.fna&oh=bb421d5ce41821759a19f1ac6830ccba&oe=5E66AC40)
+![สรุป](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/79516987_732443220572479_3255313446312345600_n.png?_nc_cat=111&_nc_oc=AQm3use--0uHcnoToleJgXhbrYvLi2Bal1AbcacqOUwyhKSg7jADvgpSxjxhEKZblrc&_nc_ht=scontent.fkkc2-1.fna&oh=8494e698962e540a48537113321d9750&oe=5E74A43D)
