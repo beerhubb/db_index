@@ -20,7 +20,11 @@
 
 ---
 
-![DB_goodgood](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/s2048x2048/79376184_2629265787180713_9170803410973229056_n.png?_nc_cat=101&_nc_oc=AQnLn0cNcU9Asqh5kSIM-vIyoIwYebyeJZEXUooMEemvRK5PD9HRnGIX3IliW2O_U94&_nc_ht=scontent.fkkc2-1.fna&oh=b4a673918dab31a9b11d43fa6527a97f&oe=5E729321)
+![how_to](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/s2048x2048/79470293_464514230923115_3898451933798596608_n.png?_nc_cat=101&_nc_oc=AQlEwa4rWZHW9PZIZvd6sjcpRhrV5zkT4Z1ek0yWpssdRzADe749fM8Za5vRVtCVUrM&_nc_ht=scontent.fkkc2-1.fna&oh=3784ded84d75b66038d1adb3ad2c6be3&oe=5E73FD0E)
+
+---
+
+![DB_index](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/s2048x2048/80303469_2396256100636117_2064243380757463040_n.png?_nc_cat=110&_nc_oc=AQnK7gRYAfKMQrhz1FrcAKZ9BuYEsN5oGzmITqnqlUp2Roj2kM0XFkBDcXZStBlQ-P4&_nc_ht=scontent.fkkc2-1.fna&oh=1387ea98448b88d59e71e411bc344f6a&oe=5EB0A38A)
 
 ---
 
