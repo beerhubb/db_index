@@ -24,7 +24,7 @@
 
 ---
 
-![DB_index](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/s2048x2048/80303469_2396256100636117_2064243380757463040_n.png?_nc_cat=110&_nc_oc=AQnK7gRYAfKMQrhz1FrcAKZ9BuYEsN5oGzmITqnqlUp2Roj2kM0XFkBDcXZStBlQ-P4&_nc_ht=scontent.fkkc2-1.fna&oh=1387ea98448b88d59e71e411bc344f6a&oe=5EB0A38A)
+![DB_index](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/s2048x2048/79416056_449855165725591_6422571808129548288_n.png?_nc_cat=107&_nc_oc=AQkpG4L0l9wvJRuNHuz_83pNFZcE_vegKYAstOixGoAGjZ6uOVOe1Vk9pYJ1enTln8M&_nc_ht=scontent.fkkc2-1.fna&oh=8c3a846f67042e102d859f0940f3fcf7&oe=5EB10E4C)
 
 ---
 
@@ -32,4 +32,4 @@
 
 ---
 
-![สรุป](http://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/79784793_1401232756709134_3776472981396520960_n.png?_nc_cat=105&_nc_oc=AQkzjZV01YD9IVKxozmG89oWNX4Kl-y5OBVHxJLEmT68YxY_w_QD4napCfEx4x-dKbE&_nc_ht=scontent.fkkc2-1.fna&oh=5a7c56bf711e82be933b1e145efd8840&oe=5E7809F6)
+![สรุป](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/79330959_448932729341632_8872701335959502848_n.png?_nc_cat=110&_nc_oc=AQmR2IfKxMfXHVcFqLt3sMf_0iXIRoQReDe5UFxu--tG4RpyVpF8iTq1oe9bsBUu5QU&_nc_ht=scontent.fkkc2-1.fna&oh=bb421d5ce41821759a19f1ac6830ccba&oe=5E66AC40)
