@@ -21,7 +21,7 @@
 
 ---
 
-![how_to](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/s2048x2048/79278904_2126290417471355_7018164371993919488_n.png?_nc_cat=110&_nc_oc=AQk3PUVQ-DTvGpD7GndCToiNLavsnhhmnB7Jiy3R-3avc1z7b7NL4TsSuA6tl0yfKOY&_nc_ht=scontent.fkkc2-1.fna&oh=cecb9b4be76406526f9c974093c55e24&oe=5E7410EB)
+![how_to](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/79541169_976465896060581_5003199191132930048_n.png?_nc_cat=102&_nc_oc=AQkfyxzqBpywbm8SPlye9FJdCjKtWVkPR33pornqlC_BLv3hottO9R190WiA7uvn9gU&_nc_ht=scontent.fkkc2-1.fna&oh=bb4c185afb33cc377adce396c3c23e1d&oe=5E6658A6)
 
 ---
 
@@ -35,4 +35,4 @@
 
 ## เปรียบเทียบ
 
-![สรุป](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/80090523_776900706143115_6095823847439728640_n.png?_nc_cat=106&_nc_oc=AQmQ8O57gthSFZJnYUmQa-DBxPRkiJubEHK1iQoHDJgxZYhh67HrFEqcD9iPQ7WsXeM&_nc_ht=scontent.fkkc2-1.fna&oh=9815a6cd19d40f9db56f3c74b87e481b&oe=5E74188E)
+![สรุป](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/80188552_753874921780187_2296352583188480000_n.png?_nc_cat=104&_nc_oc=AQmvbzwvnxHrT8tdxGA3aWJ-Mg7wbYzb7XHkjrRGCVmUlzhOjMQ-d8jPgaZz7Bp4pGM&_nc_ht=scontent.fkkc2-1.fna&oh=e7a01c8c1a07089626239edf383d6ae4&oe=5EAD5F4A)
