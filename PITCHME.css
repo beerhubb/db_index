@@ -2,10 +2,9 @@
 .reveal h2,
 .reveal h2 strong {
   color: chocolate;
-  text-shadow: 2px 2px;
 }
 body {
-  background: #ccbbbb;
+  background: #e6e2d0;
 }
 
 /** img {
