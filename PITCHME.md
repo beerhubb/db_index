@@ -13,7 +13,7 @@
 
 ---
 
-![DB_bad](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/80822155_538839476669999_7800419650516287488_n.png?_nc_cat=108&_nc_oc=AQn5JbV98jZKzOxBq11tSGB4wRY9kKjg5GGNgTwcYGE4i1XcRUxt9QflkKRiMrQqehw&_nc_ht=scontent.fkkc2-1.fna&oh=553a88a7778ea1fbc208c64303c42d49&oe=5EAF78E2)
+![DB_bad](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/s2048x2048/80782951_546080875945639_4840672324367679488_n.png?_nc_cat=108&_nc_oc=AQntNNdVd4XEk36GiSGNBfA573WD0eHE6BK5T7cXgpC5cZ97r0_TPXgFwiQXSSCX2ew&_nc_ht=scontent.fkkc2-1.fna&oh=fcb85f277d82aa4dd8c89794adc18c7b&oe=5E7E1AD9)
 
 ---
 
@@ -21,11 +21,11 @@
 
 ---
 
-![how_to](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/80537395_2545744279004140_5628875943616446464_n.png?_nc_cat=105&_nc_oc=AQlCU9RAGqpbFgGAiq-Frbl9_rkVZzBIuUh2VCsbKHn2RfK41xuyiAJEAKiUBggHGSU&_nc_ht=scontent.fkkc2-1.fna&oh=d3a08d78839063799ce3979b720ad7bc&oe=5E739E0C)
+![how_to](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/s2048x2048/79278904_2126290417471355_7018164371993919488_n.png?_nc_cat=110&_nc_oc=AQk3PUVQ-DTvGpD7GndCToiNLavsnhhmnB7Jiy3R-3avc1z7b7NL4TsSuA6tl0yfKOY&_nc_ht=scontent.fkkc2-1.fna&oh=cecb9b4be76406526f9c974093c55e24&oe=5E7410EB)
 
 ---
 
-![DB_index](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/80450908_448109695872850_6563324964525572096_n.png?_nc_cat=103&_nc_oc=AQnhfRDUArSSeD5FFl3ZR5i5DM5yyQsqCLCCP0SSarEqashF4dIo9THKaDBjNfqxLc0&_nc_ht=scontent.fkkc2-1.fna&oh=c9039379da3d0922e444d40b451694a8&oe=5E743F3F)
+![DB_index](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/s2048x2048/79931312_2441309192777728_5418493494677209088_n.png?_nc_cat=107&_nc_oc=AQmKtJGQHUWHiAguWLh6ho_LgAjtHVRZ9mXoMlY1yVvu_lL1pf4S01nEtwSLkqASGN8&_nc_ht=scontent.fkkc2-1.fna&oh=12211817686090072d11b243c4703963&oe=5E672454)
 
 ---
 
