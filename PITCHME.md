@@ -1,10 +1,6 @@
 ---
-
 ## DATABASE INDEX
-
----
-
-## ทำไมต้องใช้<br>DATABASE INDEX?
+---## ทำไมต้องใช้<br>DATABASE INDEX?
 
 ---
 
@@ -14,7 +10,7 @@
 
 ---
 
-![DB_gag](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/s2048x2048/79275451_486768981954267_3162016526031126528_n.png?_nc_cat=100&_nc_oc=AQmavc0pSNgW69WILxZ3_7z5Wek6TJEwe9ZYhk0VmEotVquseJVdtMqsXFMDw9Myk90&_nc_ht=scontent.fkkc2-1.fna&oh=5b787b00ea9008e3e166518580feebb5&oe=5E82E978)
+![DB_gag](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/80270526_616616379093267_4179980580420583424_n.png?_nc_cat=106&_nc_oc=AQnlqIvlEyTCWLtoRX8gwUdAI5lTZdF3prUarlEjthyOCe-QmK73Bz9Yi7uExDX_-_8&_nc_ht=scontent.fkkc2-1.fna&oh=3debb26a023557c2de6fa7ba11eb286a&oe=5EAC9E97)
 
 ---
 
