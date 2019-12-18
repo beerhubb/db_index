@@ -9,7 +9,7 @@
 
 ## DATA BASE
 
-![DB](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/80316774_2392799971033344_8999176650969055232_n.png?_nc_cat=109&_nc_oc=AQkKpxDG1yek-bKfk4ERo745tzAq1GwApUyONYgeKhs4gqaQoWiXDS_pDgmemn0shjg&_nc_ht=scontent.fkkc2-1.fna&oh=c0903dd82706dcad295fff2e44868128&oe=5EAEA91E)
+![DB](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/80697412_1262797477262514_553878879412944896_n.png?_nc_cat=107&_nc_oc=AQk0UoX2XJoCpYnEkoZEwObpYWcDKsSDDTbEQIcLce-EjlmUBMWy0PZzsLYVcXHlRKM&_nc_ht=scontent.fkkc2-1.fna&oh=f3af11d5600df401a6da67ac61fab495&oe=5EB325DF)
 
 ---
 
