@@ -13,7 +13,7 @@
 
 ---
 
-![DB_bad](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/80270526_616616379093267_4179980580420583424_n.png?_nc_cat=106&_nc_oc=AQnlqIvlEyTCWLtoRX8gwUdAI5lTZdF3prUarlEjthyOCe-QmK73Bz9Yi7uExDX_-_8&_nc_ht=scontent.fkkc2-1.fna&oh=3debb26a023557c2de6fa7ba11eb286a&oe=5EAC9E97)
+![DB_bad](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/80822155_538839476669999_7800419650516287488_n.png?_nc_cat=108&_nc_oc=AQn5JbV98jZKzOxBq11tSGB4wRY9kKjg5GGNgTwcYGE4i1XcRUxt9QflkKRiMrQqehw&_nc_ht=scontent.fkkc2-1.fna&oh=553a88a7778ea1fbc208c64303c42d49&oe=5EAF78E2)
 
 ---
 
