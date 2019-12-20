@@ -35,4 +35,4 @@
 
 ## เปรียบเทียบ
 
-![สรุป](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/80188552_753874921780187_2296352583188480000_n.png?_nc_cat=104&_nc_oc=AQmvbzwvnxHrT8tdxGA3aWJ-Mg7wbYzb7XHkjrRGCVmUlzhOjMQ-d8jPgaZz7Bp4pGM&_nc_ht=scontent.fkkc2-1.fna&oh=e7a01c8c1a07089626239edf383d6ae4&oe=5EAD5F4A)
+![สรุป](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/79462549_1306848232836597_3307259941886099456_n.png?_nc_cat=104&_nc_oc=AQmX4NqbjQ_371JFT66lSbMb1-o_tuF5OOLuUMGVsZHM68dM6ZKj-oLKWGsRrl9xseA&_nc_ht=scontent.fkkc2-1.fna&oh=6a8fe0ca03042db94195b8a1cadb8c8b&oe=5E72AFAB)
