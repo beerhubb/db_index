@@ -13,7 +13,7 @@
 
 ---
 
-![DB_bad](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/s2048x2048/80782951_546080875945639_4840672324367679488_n.png?_nc_cat=108&_nc_oc=AQntNNdVd4XEk36GiSGNBfA573WD0eHE6BK5T7cXgpC5cZ97r0_TPXgFwiQXSSCX2ew&_nc_ht=scontent.fkkc2-1.fna&oh=fcb85f277d82aa4dd8c89794adc18c7b&oe=5E7E1AD9)
+![DB_bad](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/s2048x2048/80378584_2798821996823093_367093290035576832_n.png?_nc_cat=105&_nc_oc=AQkRuighOGDX22cfbv3ReCO3m17AHi9oW2fXqZdRiRa61VtH9DRYW2sbYTmxC706OO8&_nc_ht=scontent.fkkc2-1.fna&oh=059606d7ef9ede8b65614a912c294b89&oe=5E7D2067)
 
 ---
 
@@ -25,7 +25,7 @@
 
 ---
 
-![DB_index](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/s2048x2048/79931312_2441309192777728_5418493494677209088_n.png?_nc_cat=107&_nc_oc=AQmKtJGQHUWHiAguWLh6ho_LgAjtHVRZ9mXoMlY1yVvu_lL1pf4S01nEtwSLkqASGN8&_nc_ht=scontent.fkkc2-1.fna&oh=12211817686090072d11b243c4703963&oe=5E672454)
+![DB_index](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/s2048x2048/81213769_779154919213040_7872119508138196992_n.png?_nc_cat=103&_nc_oc=AQmP7gvD3kTsxXKt7486nFwdmRrxb_88RrXNU6eA09XXd8ns1PeoQuIPvvHVR_5sLwQ&_nc_ht=scontent.fkkc2-1.fna&oh=8d8410a45cee687784905b1bb073df76&oe=5EA92D16)
 
 ---
 
